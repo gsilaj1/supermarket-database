@@ -1,2 +1,2 @@
 # supermarket-database
-Relational schema '
+
